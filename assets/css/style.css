@@ -19,6 +19,15 @@ h1 {
     margin-bottom: 5%;
 }
 
+h2 {
+    color: #252627 ;
+    font-size: 45px;
+    letter-spacing: 0.02em;
+    margin-bottom: 5%;
+    margin-top: 5%;
+
+}
+
 p {
     letter-spacing: 0.020em;
     line-height: 1.5em;
